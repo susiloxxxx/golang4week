@@ -2,6 +2,14 @@
 fast track learning golang for restfull API on 4 week
 Untuk belajar Go dan Go Fiber secara efisien dalam rangka membangun REST API, saya akan membuat silabus step-by-step yang fokus pada hal-hal yang paling penting. Ini mencakup pengenalan dasar Go, serta aspek-aspek utama dalam pengembangan backend REST API. Saya akan membagi langkah-langkah ini menjadi beberapa tahap sehingga kamu bisa mengikuti secara bertahap dan efisien.
 
+
+## first you need update golang
+
+`git clone https://github.com/udhos/update-golang`
+`cd update-golang`
+`sudo ./update-golang.sh`
+
+
 Silabus Belajar Golang dan Fiber untuk REST API
 Tahap 1: Pengenalan dan Dasar Golang (2-3 hari)
 Instalasi Go:
